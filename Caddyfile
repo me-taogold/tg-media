@@ -1,0 +1,3 @@
+media.taogold.io {
+    reverse_proxy localhost:9000
+}
